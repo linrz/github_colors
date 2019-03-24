@@ -21,7 +21,7 @@ main() {
 ```
 
 ## Example
-![](./assets/demo.png)
+![](./assets/demo.png){:height="50%" width="50%"}
 
 ## Author
 **github_colors** © [linrz](https://github.com/linrz), Released under the [MIT](./LICENSE) License.<br>
