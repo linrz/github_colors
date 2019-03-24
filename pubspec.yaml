@@ -1,13 +1,11 @@
 name: github_colors
 description: A package for convert github language to color.
 version: 0.0.1
-author:
-homepage:
+author: 'linrz@lastwhisper.cn'
+homepage: 'https://github.com/linrz/github_colors'
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
-
-dependencies:
 
 dev_dependencies:
   dio: 2.1.0
