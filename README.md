@@ -20,6 +20,11 @@ main() {
 }
 ```
 
+If Github update languages, run the following command in the terminal to fetch the latest infomation.
+```sh
+pub global run github_colors:main
+```
+
 ## Example
 <img src="./assets/demo.png" width="50%" height="50%" />
 
