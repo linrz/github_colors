@@ -11,7 +11,7 @@ Open your pubspec.yaml and add the following dependency.
 
 ```yaml
 dependencies:
-  github_colors: 0.0.1  #latest version
+  github_colors: 0.0.5  #latest version
 ```
 
 ```dart
@@ -29,7 +29,7 @@ pub global run github_colors:main
 ```
 
 ## Example
-<img src="./assets/demo.png" width="50%" height="50%" />
+<img src="https://github.com/linrz/github_colors/blob/master/doc/demo.png" width="50%" height="50%" />
 
 ## Author
 **github_colors** © [linrz](https://github.com/linrz), Released under the [MIT](./LICENSE) License.<br>
