@@ -1,4 +1,7 @@
 # github_colors
+[![Pub](https://img.shields.io/pub/v/github_colors.svg?style=flat-square)](https://pub.dartlang.org/packages/github_colors)
+[![support](https://img.shields.io/badge/platform-flutter%7Cdart%20vm-ff69b4.svg?style=flat-square)](https://github.com/flutterchina/dio)
+
 
 A Dart package for developers to covert languages colors in Github.
 
