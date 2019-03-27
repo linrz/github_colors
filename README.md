@@ -14,7 +14,7 @@ dependencies:
 ```dart
 import 'package:github_colors/github_colors.dart';
 
-main() {
+main() async {
   String hex = GithubColors.covert('JavaScript');
   print(hex); // #f1e05a
 }

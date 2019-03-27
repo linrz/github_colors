@@ -1,15 +1,15 @@
 name: github_colors
 description: A package for convert github language to color.
-version: 0.0.1
-author: 'linrz@lastwhisper.cn'
+version: 0.0.5
+author: 'linrz <linrz@lastwhisper.cn>'
 homepage: 'https://github.com/linrz/github_colors'
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
 
-dev_dependencies:
-  dio: 2.1.0
-  yaml: 2.1.15
+dependencies:
+  dio: ^2.1.0
+  yaml: ^2.1.15
 
 executables:
   github_colors: main

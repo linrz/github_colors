@@ -23,13 +23,14 @@ void main() async {
     colors[key] = value['color'];
   });
 
-  File file = new File('./assets/colors.json');
+  File file = new File('./lib/src/colors.dart');
 
   if (!await file.exists()) {
     file = await file.create();
   }
 
   String colorsJson = json.encode(colors);
+  String colorsDartFile = 'const GithubColorsMap = $colorsJson;';
 
-  await file.writeAsString(colorsJson);
+  await file.writeAsString(colorsDartFile);
 }
